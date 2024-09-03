@@ -1,41 +1,21 @@
-# Terms of Service
+# Terms of Use
 
-Welcome to Docket, your digital TV guide for the internet. These terms of service govern your use of our platform and services. By accessing or using our services, you agree to be bound by these terms.
+Please read these Terms of Service carefully before using www.docket.tv operated by Docket TV, Inc.
 
-### Account Registration
+Your access to and the use of Docket TV is conditioned on your acceptance of and compliance with these terms. These terms apply to all visitors, users, and others who access or use the service. By accessing our service, you agree to be bound by these terms. If you disagree with any part of these terms, then you may not access the service.
 
-You must register for an account to access certain features of our service. You agree to provide accurate and complete information and keep your account information updated.
+You must be at least 13 years of age to use this web application. By using this web application and agreeing to these terms and conditions, you warrant and represent that you are at least 13 years of age.
 
-### User Responsibilities
+This web application uses cookies. By using this web application and agreeing to these terms and conditions, you consent to Docket TV's use of cookies in accordance with the terms of Docket TV’s privacy policy.
 
-You are responsible for all activities that occur under your account. You must maintain the security of your account and promptly notify us if you discover or suspect any security breaches.
+## License To Use Web Application
 
-### Prohibited Conduct
+The content of the pages of this web application is for your general information and use only. It is subject to change without notice.
 
-You may not use our services for any illegal or unauthorized purpose. You agree to comply with all laws, rules, and regulations applicable to your use of the services.
+Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness, or suitability of the information and materials found or offered on this web application for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
-### Content Ownership and Use
+Your use of any information or materials on this web application is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services, or information available through this web application meet your specific requirements.
 
-We do not claim ownership of the content you submit to the service. However, by posting content, you grant us a worldwide, royalty-free license to use, modify, perform, display, reproduce, and distribute your content.
+This web application contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance, and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
 
-### Termination
-
-We may terminate or suspend your access to our services at any time, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
-
-### Disclaimer of Warranties
-
-Our services are provided on an "as is" and "as available" basis. We disclaim all warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
-### Limitation of Liability
-
-We shall not be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the services.
-
-### Changes to Terms
-
-We reserve the right to modify these terms at any time. We will notify you of any changes by posting the revised terms on this page. Your continued use of the platform after such changes will constitute acknowledgment and agreement of the modified terms.
-
-### Contact Us
-
-If you have any questions about these Terms of Service, please contact us at support@docket.tv.
-
-This document is effective as of April 21st, 2024.
+All trademarks reproduced in this web application which are not the property of, or licensed to, the operator are acknowledged on the web application.
