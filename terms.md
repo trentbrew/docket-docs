@@ -18,4 +18,6 @@ Your use of any information or materials on this web application is entirely at 
 
 This web application contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance, and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
 
+All organizations using Docket TV are responsible for their own terms of service and compliance with applicable laws. Docket TV acts solely as a facilitator for communication between parties and is not responsible for any legal violations occurring on or through our platform.
+
 All trademarks reproduced in this web application which are not the property of, or licensed to, the operator are acknowledged on the web application.
