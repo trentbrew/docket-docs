@@ -1,6 +1,6 @@
 # Terms of Use
 
-Please read these Terms of Service carefully before using www.docket.tv operated by Docket TV, Inc.
+Please read these Terms of Service carefully before using www.docket.tv operated by Docket TV © A joint venture between TURTLE LABS LLC, GUMBO MEDIA LLC, and BFRESH PRODUCTIONS LLC.
 
 Your access to and the use of Docket TV is conditioned on your acceptance of and compliance with these terms. These terms apply to all visitors, users, and others who access or use the service. By accessing our service, you agree to be bound by these terms. If you disagree with any part of these terms, then you may not access the service.
 
